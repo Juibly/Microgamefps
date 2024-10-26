@@ -1,0 +1,1 @@
+The first change I made to the post processing was setting the film grain to large and increasing its intensity significantly. For the second change I added chromatic aberration to fit in with the VHS-like aesthetic created by the film grain.
